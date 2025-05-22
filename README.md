@@ -26,9 +26,9 @@ A **C@Tec Soluções em T.I.** é uma empresa familiar especializada no desenvol
 
 ## 📍 Contato
 
-- 📧 E-mail: contato@catec.inf.br
-- 📞 Telefone: (54) 3261-1055
-- 📍 Endereço: Rua Pinheiro Machado, 263, Farroupilha - RS
+- 📧 E-mail: `contato@catec.inf.br`
+- 📞 Telefone: `(54) 3261-1055`
+- 📍 Endereço: `Rua Pinheiro Machado, 263, Farroupilha - RS`
 - 🌐 Site: [https://catec.inf.br/home.php](https://catec.inf.br/home.php)
 
 ---
