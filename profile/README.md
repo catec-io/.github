@@ -24,6 +24,11 @@ A **C@Tec Soluções em T.I.** é uma empresa familiar especializada no desenvol
 
 ---
 
+## 🎉 Lojas de Aplicativos
+
+- Google Play Store  Google Play Store: [Android](https://play.google.com/store/apps/developer?id=Catec+Solu%C3%A7%C3%B5es+em+TI)
+- Apple App Store: [iOS](https://www.apple.com/app-store/)
+
 ## 📍 Contato
 
 - 📧 E-mail: contato@catec.inf.br
@@ -35,14 +40,14 @@ A **C@Tec Soluções em T.I.** é uma empresa familiar especializada no desenvol
 
 ## 🤝 Clientes Atendidos
 
-- Divelog Soluções em Logística
+- [Divelog Soluções em Logística](https://divelog.com.br/)
+- [Clínica Veterinária Cão & Cia](https://www.clinicacaoecia.com.br/)
+- [Unidão Transportes](https://www.unidao.com/)
+- [UnidaSul Distribuidora Alimentícia SA](https://unidasul.com.br/)
+- [Prefeitura Municipal de Tubarão](https://tubarao.sc.gov.br/)
 - Allure Calçados e Acessórios
-- Spazio Gourmet
 - Raquel Meurer Confeitaria Artística
-- Unidão Transportes
-- UnidaSul Distribuidora Alimentícia
-- Prefeitura Municipal de Tubarão
-- Clínica Veterinária Cão & Cia
+- Spazio Gourmet
 
 ---
 
