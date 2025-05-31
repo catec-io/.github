@@ -26,7 +26,7 @@ A **C@Tec Soluções em T.I.** é uma empresa familiar especializada no desenvol
 
 ## 🎉 Lojas de Aplicativos
 
-- Google Play Store  Google Play Store: [Android](https://play.google.com/store/apps/developer?id=Catec+Solu%C3%A7%C3%B5es+em+TI)
+- Google Play Store: [Android](https://play.google.com/store/apps/developer?id=Catec+Solu%C3%A7%C3%B5es+em+TI)
 - Apple App Store: [iOS](https://apps.apple.com/br/developer/catec-solu%C3%A7%C3%B5es-em-ti/id1538746357)
 
 ## 📍 Contato
